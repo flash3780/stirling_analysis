@@ -8,3 +8,6 @@ of Ohio University.
 
 The original scripts are available at
 http://www.ohio.edu/mechanical/stirling/me422.html
+
+Minor changes have been made to improve plotting and performance, but
+mostly as a learning exercise.

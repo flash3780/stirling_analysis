@@ -91,11 +91,3 @@ while(~strncmp(choice,'q',1))
 	end
 end
 fprintf('quitting ideal adiabatic plots...\n');
-
-
-
-
-
-
-
-

@@ -34,17 +34,3 @@ plot(x,y)
 xlabel('crank angle (deg)')
 ylabel('pressure (bar)')
 title('Schmidt p-theta diagram')
-
-
-
-
-
-
-
-
-
-
-
-
-
-

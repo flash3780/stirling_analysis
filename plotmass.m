@@ -89,5 +89,3 @@ ylabel('Crank Angle (deg)')
 title('Particle mass plot')
 
 hold off
-
-%% Remove last 

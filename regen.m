@@ -4,6 +4,7 @@ function regen
 % modified 2/12/2010 to include awgr0 (wetted area)
 % modified 11/27/2010 to include 'no regenerator matrix'
 
+
 global lr % regenerator effective length [m]
 global awgr0 % no matrix regenerator wetted area [m^2]
 global cqwr % regenerator housing thermal conductance [W/K]

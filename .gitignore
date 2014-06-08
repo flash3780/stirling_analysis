@@ -1,3 +1,6 @@
 plots
 archive
 *~
+*.png
+*.svg
+*.pdf
